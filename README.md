@@ -76,3 +76,5 @@ Open:
 ```text
 http://localhost:5173
 ```
+## Demo Video
+https://www.youtube.com/watch?v=CWl1aig73W8
